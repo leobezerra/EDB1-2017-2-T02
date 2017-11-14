@@ -10,4 +10,5 @@ Abaixo, as descrições dos projetos de análise experimental da disciplina.
 ---
 
 1. [**Ordenação**](ordenacao)
+1. [**Ordenação expandido**](ordenacao-full)
 
