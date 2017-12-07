@@ -44,6 +44,4 @@ A análise deverá ser fornecida como um relatório. Torne-o conciso, porém int
 
 ## Prazos
 
-* *Deadline #1* (pontuação **integral**): Domingo, 10/12/2017
-* *Deadline #2* (pontuação **parcial**): Terça, 12/12/2017
-
+* *Deadline*: Sábado, 8h, 09/12/2017
